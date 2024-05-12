@@ -2,7 +2,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 =======================================================================================================================================
 A web developer / application developer. 
 ---------------------------------------
-I'm a graduate of Bachelor of Science in Information Technology and planning to develop apps and websites.  * 🌍  I'm based in Quezon City, Philippines * ✉️  You can contact me at [diazlouther@gmail.com](mailto:diazlouther@gmail.com) * ⚡  I can do a cartwheel 🤸
+I'm a graduate of Bachelor of Science in Information Technology and planning to develop apps and websites.  
+* 🌍  I'm based in Quezon City, Philippines
+* ✉️  You can contact me at [diazlouther@gmail.com](mailto:diazlouther@gmail.com)
+* ⚡  I can do a cartwheel 🤸
 
 ### Skills  
 
